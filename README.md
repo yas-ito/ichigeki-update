@@ -4,6 +4,7 @@ Premiere Pro 用プラグイン「一撃極」のパネルが、**最新版が�
 
 - 本体（購入・ダウンロード）: https://yas-tools.booth.pm/items/8705448
 - パネルが読むファイル: [`version.json`](version.json)
+- 単体版「音量調整」（yas-tools｜音量調整）のパネルが読むファイル: [`volume.json`](volume.json)（配布ページ https://yas-tools.booth.pm/items/8920310 ・形は version.json と同じ）
 
 ## version.json の見かた
 
