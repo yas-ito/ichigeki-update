@@ -5,6 +5,7 @@ Premiere Pro 用プラグイン「一撃極」のパネルが、**最新版が�
 - 本体（購入・ダウンロード）: https://yas-tools.booth.pm/items/8705448
 - パネルが読むファイル: [`version.json`](version.json)
 - 単体版「音量調整」（yas-tools｜音量調整）のパネルが読むファイル: [`volume.json`](volume.json)（配布ページ https://yas-tools.booth.pm/items/8920310 ・形は version.json と同じ）
+- 「PinTop」（ウィンドウを振って最前面に固定するアプリ）が読むファイル: [`pintop.json`](pintop.json)（Mac 版 https://yas-tools.booth.pm/items/8896405 ・Windows 版 https://yas-tools.booth.pm/items/8901258 ・形は version.json と同じ。Mac 版は 1.0.2 から読む／Windows 版はまだ読まない）
 - 「チェックマン」（yas-tools｜チェックマン・無料版）のパネルが読むファイル: [`checkman.json`](checkman.json)（配布ページ https://yas-tools.booth.pm/items/8978840 ・形は version.json と同じ）
 
 ## version.json の見かた

@@ -1,0 +1,15 @@
+{
+  "latest": "1.0.2",
+  "mac": {
+    "latest": "1.0.2",
+    "url": "https://yas-tools.booth.pm/items/8896405",
+    "notes": "固定したあと別のウィンドウを押すと固定した窓が一瞬消えて見えたのと、角の丸みの外が四角く写ったのと、固定した窓を動かすと重たかったのを直しました。"
+  },
+  "win": {
+    "latest": "1.0.0",
+    "url": "https://yas-tools.booth.pm/items/8901258",
+    "notes": ""
+  },
+  "url": "https://yas-tools.booth.pm/items/8896405",
+  "notes": ""
+}
