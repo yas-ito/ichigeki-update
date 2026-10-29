@@ -6,9 +6,9 @@
     "notes": "Windows で、画面ごとに拡大率が違うと Claude のマウス操作がずれる所を直しました"
   },
   "win": {
-    "latest": "1.0.3",
+    "latest": "1.0.5",
     "url": "https://yas-tools.booth.pm/items/9063806",
-    "notes": "Windows で、画面ごとに拡大率が違うと Claude のマウス操作がずれる所を直しました"
+    "notes": "抑揚の直しで、差し替えた文の頭の1音が落ちることがある所と、同じ文が2回あると1つ目に差し込まれる所を直しました"
   },
   "url": "https://yas-tools.booth.pm/items/9063806",
   "notes": ""
