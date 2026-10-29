@@ -1,14 +1,14 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "mac": {
-    "latest": "1.0.1",
+    "latest": "1.0.2",
     "url": "https://yas-tools.booth.pm/items/9063806",
-    "notes": "説明書に「一撃極の用意」を足しました"
+    "notes": "前の版から入れ替えるとき、Claude が中を書き換えていた所を控えるようにしました"
   },
   "win": {
-    "latest": "1.0.1",
+    "latest": "1.0.2",
     "url": "https://yas-tools.booth.pm/items/9063806",
-    "notes": "説明書に「一撃極の用意」を足しました"
+    "notes": "前の版から入れ替えるとき、Claude が中を書き換えていた所を控えるようにしました"
   },
   "url": "https://yas-tools.booth.pm/items/9063806",
   "notes": ""
