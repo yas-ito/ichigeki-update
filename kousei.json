@@ -1,14 +1,14 @@
 {
-  "latest": "1.0.2",
+  "latest": "1.0.3",
   "mac": {
-    "latest": "1.0.2",
+    "latest": "1.0.3",
     "url": "https://yas-tools.booth.pm/items/9063806",
-    "notes": "前の版から入れ替えるとき、Claude が中を書き換えていた所を控えるようにしました"
+    "notes": "Windows で、画面ごとに拡大率が違うと Claude のマウス操作がずれる所を直しました"
   },
   "win": {
-    "latest": "1.0.2",
+    "latest": "1.0.3",
     "url": "https://yas-tools.booth.pm/items/9063806",
-    "notes": "前の版から入れ替えるとき、Claude が中を書き換えていた所を控えるようにしました"
+    "notes": "Windows で、画面ごとに拡大率が違うと Claude のマウス操作がずれる所を直しました"
   },
   "url": "https://yas-tools.booth.pm/items/9063806",
   "notes": ""
