@@ -1,14 +1,14 @@
 {
-  "latest": "1.0.22",
+  "latest": "1.0.23",
   "mac": {
     "latest": "1.0.23",
     "url": "https://yas-tools.booth.pm/items/9063806",
     "notes": "ナレーションの音声合成に ElevenLabs を使えるようにしました（Fish Audio もそのまま使えます）"
   },
   "win": {
-    "latest": "1.0.22",
+    "latest": "1.0.23",
     "url": "https://yas-tools.booth.pm/items/9063806",
-    "notes": "声の読みを直したとき、その読み方を次の動画でも使えるように残すか聞くようにしました。一撃極・構成一撃のような長い名前の読みの直し方も覚えました"
+    "notes": "ナレーションの音声合成に ElevenLabs を使えるようにしました（Fish Audio もそのまま使えます）"
   },
   "url": "https://yas-tools.booth.pm/items/9063806",
   "notes": ""
