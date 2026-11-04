@@ -6,9 +6,9 @@
     "notes": "ナレーションの音声合成に ElevenLabs を使えるようにしました（Fish Audio もそのまま使えます）"
   },
   "win": {
-    "latest": "1.0.23",
+    "latest": "1.0.26",
     "url": "https://yas-tools.booth.pm/items/9063806",
-    "notes": "ナレーションの音声合成に ElevenLabs を使えるようにしました（Fish Audio もそのまま使えます）"
+    "notes": "作り直した声も一撃極の設定で切って置くようにしました。置いたテロップの字も Claude が直せます。テロップの時刻は頼まれない限り動かしません"
   },
   "url": "https://yas-tools.booth.pm/items/9063806",
   "notes": ""
