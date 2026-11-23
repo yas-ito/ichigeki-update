@@ -13,8 +13,8 @@
   "url": "https://yas-tools.booth.pm/items/9063806",
   "notes": "",
   "fcp": {
-    "latest": "1.0.54",
+    "latest": "1.0.55",
     "url": "https://yas-tools.booth.pm/items/9204128",
-    "notes": "構成一撃 for Final Cut Pro を公開しました。"
+    "notes": "置き直して使わなくなった素材を Final Cut Pro へ送らないようにしました（イベントに使っていないクリップが増え、元のファイルを消すと「見つからない」と出ていた所を直しました）"
   }
 }
