@@ -1,14 +1,14 @@
 {
-  "latest": "1.0.36",
+  "latest": "1.0.54",
   "mac": {
     "latest": "1.0.54",
     "url": "https://yas-tools.booth.pm/items/9063806",
     "notes": "Final Cut Pro で組む版を別の商品「構成一撃 for Final Cut Pro」にしました。場面の字や図の重なり・はみ出しを、置く前に確かめるようにしました"
   },
   "win": {
-    "latest": "1.0.36",
+    "latest": "1.0.57",
     "url": "https://yas-tools.booth.pm/items/9063806",
-    "notes": "BGM の頭が鳴らないことがある所、場面の最初のコマの字が細くなる所、札の影が切れる所、演出が早く出る所、パネルが固まると待ち続ける所を直しました"
+    "notes": "効果音と BGM を置き直すとき、前の BGM の残りや、ほかのトラックに残った切れ端も外してから置くようにしました。場面の字や図の重なり・はみ出しを、置く前に確かめるようにしました"
   },
   "url": "https://yas-tools.booth.pm/items/9063806",
   "notes": "",
